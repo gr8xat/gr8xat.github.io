@@ -1,5 +1,4 @@
 h1{
-    WIDTH: 100%;
     text-align: center;
 }
 h1{font-size: 350%;}
@@ -17,4 +16,33 @@ ol{
 ul{
     font-size: 20px;
     display: flex;
+}
+
+h1, p , li{
+    color: tan;
+}
+h2{
+    text-align: center;
+    color: tan
+}
+nav {
+    background-color: lightcyan;
+}
+
+main {
+    background-color: lightcyan;
+    font-size: 25px;
+}
+
+ul li{
+    font-size:  30px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    width: 20%; 
 }
