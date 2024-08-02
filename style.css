@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    background-color: lightcyan;
 }
 h1{font-size: 350%;}
 body{
@@ -19,11 +20,11 @@ ul{
 }
 
 h1, p , li{
-    color: tan;
+    color: pink;
 }
 h2{
     text-align: center;
-    color: tan
+    color: pink
 }
 nav {
     background-color: lightcyan;
@@ -44,5 +45,39 @@ ul li{
 }
 
 .logo img{
-    width: 20%; 
+    width: 100px;
+    height: 100px; 
 }
+li{text-align: left;}
+li{font-size: 28px;}
+li{color:pink}
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.menu li{
+    width: 30%;
+}
+h3{ text-align: center;
+color: pink
+}
+h3{font-size: 20px;}
+h3 {
+    background-color:lightcyan;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+img {width: 400px;
+    height: 400px;
+
+
+}
+img {width: 400px;
+height: 400px;
+}
+
